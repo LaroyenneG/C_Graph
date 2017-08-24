@@ -32,6 +32,7 @@
 *.dSYM/
 *.su
 
-CMakeLists.txt
 cmake-build*
 .idea/
+Supprimerait lib/
+Supprimerait src/

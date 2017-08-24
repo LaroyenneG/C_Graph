@@ -10,7 +10,7 @@
 #include <assert.h>
 
 #include "Graph.h"
-#include "Arrangement.h"
+#include "../lib/Arrangement.h"
 
 int my_rand(int min, int max) {
     static int first = 0;

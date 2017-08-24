@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <time.h>
 
-#include "Graph/Graph.h"
+#include "Graph.h"
 
 void testAlgorithm(Graph *graph) {
     assert(isConnectivityGraph(graph));

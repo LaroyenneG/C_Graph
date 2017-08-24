@@ -6,7 +6,7 @@
 #ifndef GRAPH_GRAPH_H
 #define GRAPH_GRAPH_H
 
-#include "Vector.h"
+#include "../lib/Vector.h"
 
 #define NO_NEIGHBOUR -1000
 #define NO_ACCESS -1002
